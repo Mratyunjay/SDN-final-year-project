@@ -1,4 +1,4 @@
-####SDN- OpenVswitch:Routing using RYU controller and Link information gathering 
+SDN- OpenVswitch:Routing using RYU controller and Link information gathering 
 
 ##### About the project
 1.Designed a custom network topology and developed python script for capturing network connectivity/reachability. 
